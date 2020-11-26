@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VTgw4qGWrqw
 " target="_blank"><img src="http://img.youtube.com/vi/VTgw4qGWrqw/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="1280" height="720" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="800" height="600" border="10" /></a>
 
 I made a video.
 
